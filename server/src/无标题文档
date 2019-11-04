@@ -1,0 +1,3 @@
+
+
+gcc RequestHandle.h RequestHandle.c StatusChange.h PathHandle.c PathHandle.h Server.c SocketHandle.c SocketHandle.h StatusChange.h StatusChange.c -o server -lpthread 

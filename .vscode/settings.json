@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "requesthandle.h": "c",
+        "stdio.h": "c",
+        "in.h": "c",
+        "socket.h": "c",
+        "dirent.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
